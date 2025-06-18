@@ -1,11 +1,56 @@
-Grupo:1 Integrantes: Marco Fichetti, Nahiara Nieto y Benja Corina
+# Django-Crud
+.
+# ClubTennis
+REQUERIMIENTO:
 
-Historia de usuario: https://docs.google.com/document/d/1jIe9Eq3tHq6z5T_yinMCVz96VfYXgomL7-2FqFp7OQ8/edit?usp=sharing
 
-Casos de uso y casos de prueba: https://docs.google.com/document/d/1jIe9Eq3tHq6z5T_yinMCVz96VfYXgomL7-2FqFp7OQ8/edit?usp=sharing
 
-Modelos Clase Nombre: Servicios
+DIAGRAMA ENTIDAD RELACIÓN:
+
+<<<<<<< HEAD
+
+HISTORIA DE USUARIO:
+
+
+CASOS DE USO:
+
+
+CASOS DE PRUEBA:
+
+
+ATRIBUTOS DE CASOS DE PRUEBA:
+
+
+DESARROLLO PROYECTO EN DJANGO:
+*proyecto gral
+setting.py
+urls
+*app asiganada
+modelo.py
+forms.py
+urls.py
+templates
+Alta.html
+baja.html
+modificacionbes.html
+listado.html
+
+
+BASE DE DATOS:
+phpMyAdmin
+
+
+PRUEBAS FUNCIONALES BAJO SELENIUM:
+
+PRUEBAS DE PERFOMANCE bajo JMeter: 
+Material de Clase https://docs.google.com/document/d/1f0R_bPUdOWxhkwos8upw5Vkg1KjPbFUEYmopZkTdsv4/edit?usp=sharing
+
+
+Tutorial: https://www.youtube.com/watch?v=T1IinYFdSsA&list=PL9qpFd_9rkKULbsCdjpPBbU_n60sFsTbn&index=2
+=======
+* Modelos
 Clase Nombre: Servicios
+### Clase Nombre: Servicios
 
 | Nombre atributo   | Tipo de dato      |
 |-------------------|-------------------|
@@ -13,7 +58,6 @@ Clase Nombre: Servicios
 | descripcion       | integerField      |
 | precio            | floatField        |
 
-Clase Nombre: Contrataciones
 Nombre atributo | tipo de dato          |
 |---------------|-----------------------|
 id_administrador| autofield FK|         |
@@ -23,27 +67,67 @@ nombre-apellido |  text                 |
 senia           |   floatfield          |
 saldo           |   floatfield          |
 
-________________________________________________________________________________________________
+>>>>>>> b9549a2012858dca50456f9fed2a74bc909937ed
 
 
-Grupo 2 Integrantes:
-
-Historial de usuario:
-
-Casos de Uso y Casos de Prueba:
-
-Modelos Clase Nombre: |Nombre atributo | tipo de dato | |-----------------------|----------------------------------| |-----------------------|----------------------------------| |-----------------------|----------------------------------| |-----------------------|----------------------------------| |-----------------------|----------------------------------| |-----------------------|----------------------------------| |-----------------------|----------------------------------| |-----------------------|----------------------------------| |-----------------------|----------------------------------|
-
-__________________________________________________________________________________
-Grupo 3 Integrantes:
-
-Historial de usuario:
-
-Casos de Uso y Casos de Prueba:
-
-Modelos Clase Nombre: Nombre atributo | tipo de dato | |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------| |---------------|-------------------|
 
 
+
+
+Añadiendo seguridad al template base.html
+
+https://docs.google.com/document/d/13BPGjZfaw2u4iwg7DhpdUMu8e2ESNrrKeT2ixAWnzUQ/edit?usp=sharing
+
+<<<<<<< HEAD
+Testing: https://drive.google.com/drive/folders/1esLtgh4yBusUSAfd6Z0u-SKsqr2s3pYt?usp=sharing
+=======
+Casos de Uso  y Casos de Prueba:
+
+* Modelos
+Clase Nombre:
+|Nombre atributo | tipo de dato                     |
+|---------------|----------------------------------|
+|---------------|----------------------------------|
+|---------------|----------------------------------|
+|---------------|----------------------------------|
+|---------------|----------------------------------|
+|---------------|----------------------------------|
+|---------------|----------------------------------|
+|---------------|----------------------------------|
+|---------------|----------------------------------|
+>>>>>>> b9549a2012858dca50456f9fed2a74bc909937ed
+
+
+Evaluación Testing 15 de Noviembre de 2024: https://docs.google.com/forms/d/e/1FAIpQLSdJiUhIrzn06-7OiE0dJmMNdcyPlIfDkCKbJydk9LyON_Svdg/viewform?usp=sf_link
+
+<<<<<<< HEAD
+PROGRAMACIÓN CON PYTHON PARA EL ANALISIS DE DATOS: https://cursos.desafiolatam.com/courses/data-analysis
+
+
+
+Evaluación Programación 20 de Noviembre:https://forms.gle/qcDT8U1Q2UTj7EF59
+=======
+Grupo 3
+Integrantes:
+
+Historia de Usuario:
+
+Casos de Uso  y Casos de Prueba:
+
+
+* Modelos
+Clase Nombre:
+Nombre atributo | tipo de dato      |
+|---------------|-------------------|
+|---------------|-------------------|
+|---------------|-------------------|
+|---------------|-------------------|
+|---------------|-------------------|
+|---------------|-------------------|
+|---------------|-------------------|
+|---------------|-------------------|
+|---------------|-------------------|
+|---------------|-------------------|
 
 
 
@@ -149,17 +233,18 @@ Historia de Usuario: https://docs.google.com/document/d/1Ut7-_JTwDnkPIYRu1wz8Iej
 Casos de Uso  y Casos de Prueba: https://docs.google.com/document/d/1lyKOMc_kxi-8WzulgupKY_lzSceKHnSB0i5jMzGOCgw/edit?usp=sharing
 
 
+* Modelos
+Clase Nombre:
+|Nombre atributo|  tipo de dato     |
+|---------------|-------------------|
+|---------------|-------------------|
+|---------------|-------------------|
+|---------------|-------------------|
+|---------------|-------------------|
+|---------------|-------------------|
+|---------------|-------------------|
+|---------------|-------------------|
 
-Modelo Clase: Deportes
-
-| Nombre atributo       | Tipo de dato             |
-| --------------------- | ------------------------ |
-| id\_deporte           | PK de campo automático   |
-| nombre\_deporte       | Campo de texto           |
-| descripcion           | Campo de texto           |
-| cupos\_disponibles    | Campo entero             |
-| fecha\_creacion       | Campo de tiempo de datos |
-| ultima\_actualizacion | Campo de tiempo de datos |
 
 
 
@@ -167,11 +252,11 @@ Modelo Clase: Deportes
 ________________________________________________________________________________________________
 
 Grupo 8
-Integrantes:
+Integrantes: Octavio Valles, Fernando Lopez, Santino Gadea
 
-Historia de Usuario:
+Historia de Usuario: https://lucid.app/lucidchart/9df04ed6-b7b8-4cc7-ba79-758f0238cd43/edit?page=0_0&invitationId=inv_93b56061-7cc1-4e67-af48-eb96fd57c1d3#
 
-Casos de Uso  y Casos de Prueba:
+Casos de Uso  y Casos de Prueba: https://docs.google.com/document/d/1_q2GTvpaEPmQ4I0n5rEYUpU0H-Br2dbrBbeiLvGO7e0/edit?usp=sharing
 
 * Modelos
 Clase Nombre:
@@ -185,3 +270,8 @@ Clase Nombre:
 |---------------|-------------------|
 |---------------|-------------------|
 
+
+>>>>>>> b9549a2012858dca50456f9fed2a74bc909937ed
+
+Pasantías en linkedIn
+https://www.linkedin.com/posts/internship-jobs-for-freshers4u_interested-email-hiring-activity-7265349639082541056-sqnN?utm_source=share&utm_medium=member_desktop
