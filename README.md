@@ -233,7 +233,7 @@ https://docs.google.com/document/d/1_q2GTvpaEPmQ4I0n5rEYUpU0H-Br2dbrBbeiLvGO7e0/
 
 
 
-Pruebas funcionales Unitarias y de Integración bajo Selenium:
+Pruebas funcionales Unitarias y de Integración bajo Selenium: https://docs.google.com/document/d/1wjxtmxMT2VC08JKvfI7Yy3qQXKEtczXcf-kIzvK8pqI/edit?usp=sharing
 
 Pruebas de Performance o rendimiento: https://docs.google.com/document/d/1QwQnpydI93qFtLyhuJTHb8ewp0A73ghVuu0i8kNAKAc/edit?usp=sharing
 
